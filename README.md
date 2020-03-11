@@ -9,7 +9,9 @@
 ## Requirements
 
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [Gradle 4+](https://gradle.org/)
+* [Gradle 4](https://gradle.org/)
+
+> For Gradle 5+ use the new [*Gradle Sourcegen Plugin*](https://github.com/Scalified/gradle-sourcegen-plugin)
 
 ## Changelog
 
