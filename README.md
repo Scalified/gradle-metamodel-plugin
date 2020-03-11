@@ -1,6 +1,7 @@
 # Gradle Metamodel Plugin
 
 [![Build Status](https://travis-ci.org/Scalified/gradle-metamodel-plugin.svg)](https://travis-ci.org/Scalified/gradle-metamodel-plugin)
+[![Gradle Plugin Portal](https://img.shields.io/maven-metadata/v?label=Plugin&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fcom%2Fscalified%2Fplugins%2Fgradle%2Fmetamodel%2Fcom.scalified.plugins.gradle.metamodel.gradle.plugin%2Fmaven-metadata.xml)](https://plugins.gradle.org/plugin/com.scalified.plugins.gradle.metamodel)
 
 ## Description
 
